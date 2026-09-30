@@ -164,7 +164,7 @@ You can connect directly to both database instances using tools like DBeaver, `p
 ## 🔗 Related Repositories
 
 The pure database provisioning and infrastructure scripts have also been extracted as an independent, lightweight automation repository:
-- 📦 **[mbroglio/neo4j_postgresql_ldbc_snb_automation](https://github.com/mbroglio/neo4j_postgresql_ldbc_snb_automation)**
+- 📦 **[mbroglio/neo4j-postgresql-ldbc-automation](https://github.com/mbroglio/neo4j-postgresql-ldbc-automation)**
 
 ---
 
